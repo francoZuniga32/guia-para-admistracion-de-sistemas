@@ -1,4 +1,6 @@
 site_name: My Docs
+site_dir: "docs/"
+docs_dir: "edit/"
 theme:
   name: null
   custom_dir: mkdocs-material/material
@@ -19,3 +21,4 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+edit_uri: "edit"
